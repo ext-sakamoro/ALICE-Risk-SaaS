@@ -1,5 +1,5 @@
 global:
-  domain: alice-risk-saas.alice-platform.com
+  domain: alice-risk-saas.alicelaw.net
 frontend:
   replicas: 2
   image: alice-risk-saas/frontend:latest
